@@ -1,0 +1,21 @@
+insert into users (user_id,name,sure_name) values ('1','Pavel','Pobol');
+insert into users (user_id,name,sure_name) values ('2','Ivan','Ivanov');
+insert into users (user_id,name,sure_name) values ('3','Petr','Petrov');
+insert into users (user_id,name,sure_name) values ('4','Boris','Borisenko');
+insert into users (user_id,name,sure_name) values ('5','Vlad','Vladov');
+insert into users (user_id,name,sure_name) values ('6','Denis','Denisov');
+insert into users (user_id,name,sure_name) values ('7','Pavel','Pavlov');
+insert into users (user_id,name,sure_name) values ('8','Maksim','Maksimov');
+insert into users (user_id,name,sure_name) values ('9','Stepan','Stepanov');
+insert into users (user_id,name,sure_name) values ('10','Test','Testov');
+
+insert into accounts (account_id,account,user_id) values ('1','1000','1');
+insert into accounts (account_id,account,user_id) values ('2','12500','2');
+insert into accounts (account_id,account,user_id) values ('3','999','3');
+insert into accounts (account_id,account,user_id) values ('4','10','4');
+insert into accounts (account_id,account,user_id) values ('5','300000','5');
+insert into accounts (account_id,account,user_id) values ('6','3','6');
+insert into accounts (account_id,account,user_id) values ('7','400','7');
+insert into accounts (account_id,account,user_id) values ('8','200000','8');
+insert into accounts (account_id,account,user_id) values ('9','13000','9');
+insert into accounts (account_id,account,user_id) values ('10','0','10');
